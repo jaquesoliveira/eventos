@@ -1,0 +1,10 @@
+.page-footer{
+    height: 50px;
+    background-color: #eeeeee;
+    color: #555555;
+}
+
+.page-footer a{
+    text-decoration: none;
+    color: #555555;
+}
